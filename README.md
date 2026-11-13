@@ -2,9 +2,9 @@
 
 # Hi, I'm aaswash
 
-### Learning data science, one question at a time.
+### Interested in energy markets, impact valuations, lord of the rings.
 
-R · Data exploration · Visualization · Reproducible workflows
+Hertie School · R · Python · 
 
 [Course labs](https://github.com/aaswash/labs-IDS) · [Lecture resources](https://github.com/aaswash/DS-lectures)
 
@@ -14,7 +14,7 @@ R · Data exploration · Visualization · Reproducible workflows
 
 ## My learning space
 
-I'm exploring the data science workflow—from programming and collecting data to analysis and communicating results. This GitHub is a place to organize my learning and build on it through practice.
+Currently exploring data science workflow—from programming and collecting data for analysis and communicating results. Economist by training, my experience encompasses the key systemic elements of state capacity: data & digitalization, ⁠quality of public expenditure, ⁠tax revenue, ⁠federalism & decentralisation, and leveraging non-state actors & the private sector. I have previously worked in Domestic Resources Mobilisation at the Good Financial Governance Programme of GIZ Zambia, commissioned by the European Union and the German Federal Ministry for Economic Cooperation and Development, working across Tax Policy and Tax Administration. Currently I am a Working Student in the Impact Analysis division at WiFOR GMbH, Berlin, working on a European Investment Fund project to deliver IO based Impact Valuation dashboards for SMEs to understand risks associated with their supply chains.My long-term goal is to lead and manage multi stakeholder projects in governance reforms, especially in renewables and capital de-risking.
 
 ## Explore my coursework
 
@@ -28,8 +28,8 @@ These repositories are forks of [Introduction to Data Science](https://github.co
 
 ## Learning focus
 
-- **Programming:** R, functions, iteration, and debugging.
-- **Working with data:** collection, cleaning, and databases.
+- **Programming:** R, Python, functions, iteration, and debugging.
+- **Working with data:** collection, databases, replication.
 - **Communication:** clear visualizations and reproducible analysis.
 - **Workflow:** Git, GitHub, and organized projects.
 
